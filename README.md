@@ -60,7 +60,7 @@ library(srilankamotif)
 library(ggplot2)
 ```
 
-## Example
+## Examples
 
 ## Inspired by Lotus
 
