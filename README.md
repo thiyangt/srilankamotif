@@ -32,6 +32,8 @@ library(ggplot2)
 
 ## Example
 
+## Inspired by Lotus
+
 ``` r
 library(srilankamotif)
 ## basic example code
@@ -39,6 +41,8 @@ generate_flower()
 ```
 
 <img src="man/figures/README-example-1.png" alt="" width="100%" />
+
+## Inspired by Binara (බිනර) Mala
 
 ``` r
 draw_dual_2flowers()
@@ -51,3 +55,24 @@ generate_binara_3flower()
 ```
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
+
+# Inspired by Arimbuwa
+
+``` r
+generate_arimbuwa()
+```
+
+<img src="man/figures/README-unnamed-chunk-5-1.png" alt="" width="100%" />
+
+## Inspired by Gal Binduwa (ගල් බින්දු)
+
+``` r
+generate_galbinduwa()
+```
+
+<img src="man/figures/README-unnamed-chunk-6-1.png" alt="" width="100%" />
+
+## References
+
+[Traditional Sinhala
+Degins](https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B6%B4%E0%B7%90%E0%B6%BB%E0%B6%AB%E0%B7%92_%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%B8%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%BB_old_sinhala_designs.jpg)
