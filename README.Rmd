@@ -24,8 +24,13 @@ This project lies at the intersection of Art, Mathematics, and Programming. Art 
 
 By combining these three disciplines, the project explores how cultural heritage can be represented computationally. Traditional decorative patterns are translated into mathematical rules and implemented using programming, enabling the creation, visualization, and exploration of Sri Lankan motifs in a systematic and reproducible manner. The result is a fusion of creativity, logic, and technology, demonstrating how artistic expression can emerge from mathematical thinking and computational methods.
 
+Figure 1. This project lies at the intersection of Art, Mathematics, and Programming.
 
-
+```{r echo=FALSE, fig.cap="Figure 1: Intersection of Art, Mathematics, and Programming"}
+knitr::include_graphics(
+  "https://raw.githubusercontent.com/thiyangt/srilankamotif/main/project.png"
+)
+```
 
 ## Installation
 
@@ -75,6 +80,7 @@ generate_arimbuwa()
 generate_galbinduwa()
 ```
 
-## References
+## Traditional Sinhala Designs
 
-[Traditional Sinhala Degins](https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B6%B4%E0%B7%90%E0%B6%BB%E0%B6%AB%E0%B7%92_%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%B8%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%BB_old_sinhala_designs.jpg)
+Clear [here](https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B6%B4%E0%B7%90%E0%B6%BB%E0%B6%AB%E0%B7%92_%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%B8%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%BB_old_sinhala_designs.jpg) to view traditional sinhala designs.
+

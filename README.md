@@ -32,6 +32,19 @@ a fusion of creativity, logic, and technology, demonstrating how
 artistic expression can emerge from mathematical thinking and
 computational methods.
 
+Figure 1. This project lies at the intersection of Art, Mathematics, and
+Programming.
+
+<div class="figure">
+
+<img src="https://raw.githubusercontent.com/thiyangt/srilankamotif/main/project.png" alt="Figure 1: Intersection of Art, Mathematics, and Programming" width="100%" />
+<p class="caption">
+
+Figure 1: Intersection of Art, Mathematics, and Programming
+</p>
+
+</div>
+
 ## Installation
 
 You can install the development version of srilankamotif from
@@ -65,13 +78,13 @@ generate_flower()
 draw_dual_2flowers()
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" alt="" width="100%" />
+<img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
 
 ``` r
 generate_binara_3flower()
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" alt="" width="100%" />
+<img src="man/figures/README-unnamed-chunk-5-1.png" alt="" width="100%" />
 
 # Inspired by Arimbuwa
 
@@ -79,7 +92,7 @@ generate_binara_3flower()
 generate_arimbuwa()
 ```
 
-<img src="man/figures/README-unnamed-chunk-5-1.png" alt="" width="100%" />
+<img src="man/figures/README-unnamed-chunk-6-1.png" alt="" width="100%" />
 
 ## Inspired by Gal Binduwa (ගල් බින්දු)
 
@@ -87,9 +100,10 @@ generate_arimbuwa()
 generate_galbinduwa()
 ```
 
-<img src="man/figures/README-unnamed-chunk-6-1.png" alt="" width="100%" />
+<img src="man/figures/README-unnamed-chunk-7-1.png" alt="" width="100%" />
 
-## References
+## Traditional Sinhala Designs
 
-[Traditional Sinhala
-Degins](https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B6%B4%E0%B7%90%E0%B6%BB%E0%B6%AB%E0%B7%92_%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%B8%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%BB_old_sinhala_designs.jpg)
+Clear
+[here](https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B6%B4%E0%B7%90%E0%B6%BB%E0%B6%AB%E0%B7%92_%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD_%E0%B6%B8%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%BB_old_sinhala_designs.jpg)
+to view traditional sinhala designs.
