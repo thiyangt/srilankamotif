@@ -1,7 +1,18 @@
+#' Generate a Sri Lankan-Inspired Motif
 #'
+#' Creates a decorative motif inspired by traditional Sri Lankan lotus
+#' and geometric designs. The motif is generated using repeated rotated
+#' petals arranged around a central point.
 #'
+#' @return
+#' A `ggplot2` object representing the generated motif.
 #'
-#'
+#' @details
+#' The motif is constructed by generating a single petal shape and
+#' rotating it evenly around the origin. The resulting design resembles
+#' lotus-inspired patterns commonly found in Sri Lankan art,
+#' architecture, and decorative crafts.
+#' @export
 generate_binara_3flower <- function() {
   center <- c(0.5, 0.5)
 

@@ -1,7 +1,7 @@
 #'
 #'
 #'
-#'
+#'@export
 draw_dual_2flowers <- function() {
   center <- c(0.5, 0.5)
 

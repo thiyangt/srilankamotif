@@ -1,0 +1,55 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# srilankamotif
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This package is developed to generate Sri Lankan-inspired artistic motifs using R through mathematical and geometric constructions. Beyond its visual outputs, the package serves an educational purpose by demonstrating how mathematics can be translated into art through coding, helping users strengthen their programming skills, particularly in data visualization and functional programming in R, while engaging in creative exploration.
+
+
+## Installation
+
+You can install the development version of srilankamotif from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("thiyangt/srilankamotif")
+```
+
+```{r}
+library(srilankamotif)
+library(ggplot2)
+```
+
+
+## Example
+
+
+```{r example}
+library(srilankamotif)
+## basic example code
+generate_flower()
+```
+
+```{r}
+draw_dual_2flowers()
+```
+
+```{r}
+generate_binara_3flower()
+```
+
