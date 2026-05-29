@@ -15,6 +15,23 @@ helping users strengthen their programming skills, particularly in data
 visualization and functional programming in R, while engaging in
 creative exploration.
 
+This project lies at the intersection of Art, Mathematics, and
+Programming. Art provides the creative inspiration through traditional
+Sri Lankan motifs and aesthetic design principles. Mathematics
+contributes the underlying geometric structures, symmetry, repetition,
+and pattern formation that characterize these motifs. Programming serves
+as the medium that transforms artistic ideas and mathematical concepts
+into reproducible digital designs through algorithms and code.
+
+By combining these three disciplines, the project explores how cultural
+heritage can be represented computationally. Traditional decorative
+patterns are translated into mathematical rules and implemented using
+programming, enabling the creation, visualization, and exploration of
+Sri Lankan motifs in a systematic and reproducible manner. The result is
+a fusion of creativity, logic, and technology, demonstrating how
+artistic expression can emerge from mathematical thinking and
+computational methods.
+
 ## Installation
 
 You can install the development version of srilankamotif from
