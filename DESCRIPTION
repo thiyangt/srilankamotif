@@ -3,9 +3,11 @@ Title: R Package to Generate Sri Lanka Traditional Motif
 Version: 0.0.0.9000
 Authors@R: 
     person("Thiyanga S.", "Talagala", , "ttalagala@sjp.ac.lk", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0002-0656-9789"))
 Description: Generate motif and simple decorative pattern inspired by traditional Sri Lankan paintings. These are generated using ggplot2.
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
+Imports:
+    ggplot2
